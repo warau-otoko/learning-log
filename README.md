@@ -12,4 +12,4 @@
 - lambda
 - import
 
-次はSIGNATE Cloudに挑戦する。
+次は食品ロスの削減に挑戦する。
