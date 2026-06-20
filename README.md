@@ -1,4 +1,4 @@
-# SIGNATE Cloud
+# learning-log
 
 ## 2026-06-20
 
@@ -11,5 +11,3 @@
 - 関数
 - lambda
 - import
-
-次は''食品ロスの削減''に挑戦する。
